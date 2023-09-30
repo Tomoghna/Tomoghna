@@ -15,7 +15,7 @@
 
 I am a College Student currently studying B.tech in Computer Science Engineering and I am also a self taught programmer. I have been programming since a long time and have gathered quite experience and knowledge. Currently I am learning [Full-stack web-development](https://www.w3schools.com/whatis/whatis_fullstack.asp) and [C](https://www.techtarget.com/searchwindowsserver/definition/C)
 
-* 📍 I'm based in India
+* 📍 I'm based in `India`
 * 📧 Contact me at [tomoghanadey622@gmail.com](mailto:tomoghanadey622@gmail.com)
 * 📔 Currently I'm learning C.
 
