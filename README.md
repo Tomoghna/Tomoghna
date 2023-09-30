@@ -19,7 +19,7 @@ I am a College Student currently studying B.tech in Computer Science Engineering
 * 📧 Contact me at [tomoghanadey622@gmail.com](mailto:tomoghanadey622@gmail.com)
 * 📔 Currently I'm learning C.
 
-[![](https://komarev.com/ghpvc/?username=tom662)](https://komarev.com/ghpvc/?username=tom662)
+[![](https://komarev.com/ghpvc/?username=Tomoghna)](https://komarev.com/ghpvc/?username=Tomoghna)
 
 # Skills 🛠️
 
